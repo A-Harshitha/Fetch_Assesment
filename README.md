@@ -1,6 +1,6 @@
 # 🛒 Fetch Data Analysis Assignment
 
-## 📌 Project Overview
+## Project Overview
 This repository contains an end-to-end data analysis project for Fetch Rewards. The project involves data cleaning, exploratory analysis, and generating business insights from transactions, user behavior, and product sales.
 
 The dataset consists of three key files: **Users, Transactions, and Products**, which have been cleaned and processed for insights.
@@ -62,7 +62,7 @@ The project includes the following datasets:
 
 ---
 
-## 📊 Key Insights from Analysis
+## Key Insights from Analysis
 ### **1️⃣ Top 5 Brands by Receipts Scanned Among Users 21 and Over**
 - Identified the most popular brands preferred by users over **21 years old**.
 
@@ -82,7 +82,7 @@ The project includes the following datasets:
 
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 1. **Clone the repository**
    ```sh
    git clone https://github.com/your-username/fetch_assesment.git
@@ -99,7 +99,7 @@ The project includes the following datasets:
 
 ---
 
-## 🔥 Next Steps
+##  Next Steps
 - Enhance data visualization with **Tableau or Power BI**.
 - Implement **machine learning models** for user segmentation.
 - Improve **data pipeline automation**.
